@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# Images
+蒙舒瓦西海滩，毛里求斯 (© Robert Harding World Imagery/Offset by Shutterstock)
+![蒙舒瓦西海滩，毛里求斯 (© Robert Harding World Imagery/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.MontChoisy_ZH-CN5381112230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
